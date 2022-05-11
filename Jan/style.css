@@ -9,10 +9,19 @@
 }
 
 div {
-    border: 5px;
+    border: 1px solid limegreen;
     margin: 5px;
 }
 
-h1 {
-    display: none;
+#first>p {
+    font-size: 24pt;
 }
+
+
+/* third>p {
+    visibility: hidden;
+}
+
+#second * {
+    visibility: hidden;
+} */

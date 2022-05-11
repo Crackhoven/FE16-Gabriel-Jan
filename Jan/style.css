@@ -1,0 +1,18 @@
+.media_player {
+    width: 500px;
+    height: 250px;
+}
+
+.media_image {
+    width: 50%;
+    height: 50%;
+}
+
+div {
+    border: 5px;
+    margin: 5px;
+}
+
+h1 {
+    display: none;
+}

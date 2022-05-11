@@ -13,8 +13,8 @@ div {
     margin: 5px;
 }
 
-#first>p {
-    font-size: 24pt;
+#first p {
+    font-size: larger;
 }
 
 
